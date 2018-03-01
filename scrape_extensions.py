@@ -1,7 +1,8 @@
 #! /usr/bin/env python3
 
 '''
-    Scrapes file extensions for various file types from FileInfo.com
+Scrapes file extensions for various file types from FileInfo.com.
+The file types are defined in the constants module.
 '''
 
 import io

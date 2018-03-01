@@ -1,5 +1,5 @@
 '''
-    This modeule contains package-wide constants.
+Contains package-wide constants.
 '''
 
 BASE_URL = 'https://fileinfo.com/filetypes/'
