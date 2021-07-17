@@ -4,10 +4,10 @@ JSON collection of scraped file extensions, along with their description and typ
 
 The scraped data is available as JSON in two formats:
 
-1. ### Extensions by type
-   
+1. ### [Extensions by type](extensions_by_type.json)
+
    This JSON dictionary has **file types** as keys that map to an **array of extentsions** which are of that type.
-   
+
    ```json
    {
        "3D image": [
@@ -28,10 +28,10 @@ The scraped data is available as JSON in two formats:
    }
    ```
 
-2. ### Extensions with details
-   
+2. ### [Extensions with details](extensions.json)
+
    This JSON dictionary has **file extensions** as keys that map to a dictionary containing the **description** of that extension and its **type**.
-   
+
    ```json
    {
        ".!BT": {
